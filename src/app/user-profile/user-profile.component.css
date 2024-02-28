@@ -1,0 +1,11 @@
+.hidden {
+    visibility: hidden;
+}
+
+.quotePortion {
+height: 5vh;
+}
+
+.agePortion {
+    margin-top : 20px;
+}
